@@ -1,6 +1,6 @@
 {
   "collection": "Neurons at Play animal library",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "repository_path": "animals",
   "asset_count": 175,
   "requirements": {
@@ -396,8 +396,8 @@
       "width": 1254,
       "height": 1254,
       "format": "PNG RGBA",
-      "bytes": 986740,
-      "sha256": "053D55C99CD09320FE2AB0F174D070B92B15B656FAEA3A99E7EAD19566B54736",
+      "bytes": 647827,
+      "sha256": "788F1D7B88950324B0DDA7234FFA9E3CCC1C8AD3A170ACBA53604774B24E7168",
       "animals_per_image": 1,
       "transparent_background": true
     },
