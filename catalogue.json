@@ -1,8 +1,8 @@
 {
   "collection": "Neurons at Play animal library",
-  "updated": "2026-09-20",
+  "updated": "2026-10-09",
   "repository_path": "animals",
-  "asset_count": 155,
+  "asset_count": 175,
   "requirements": {
     "animals_per_image": 1,
     "transparent_background": true,
@@ -20,6 +20,20 @@
       "format": "PNG RGBA",
       "bytes": 1482508,
       "sha256": "3E1B24DC619FFF87BCCA94208FF7335A4B94BEF5510D5971211D84A99978544E",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "aardwolf",
+      "file": "animals/aardwolf.png",
+      "label": "aardwolf",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1412748,
+      "sha256": "5DEA5529DFC28A97DF05ED11C9B56220F36E521E41E74C76228FE23CA876E799",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -276,6 +290,20 @@
       "transparent_background": true
     },
     {
+      "id": "blanket-octopus",
+      "file": "animals/blanket-octopus.png",
+      "label": "blanket octopus",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1117974,
+      "sha256": "A37E4518369E85646E211823603F458BF5D64E72701CCBD49C84127421ADF2F1",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "blue-morpho-butterfly",
       "file": "animals/blue-morpho-butterfly.png",
       "label": "Blue morpho butterfly",
@@ -314,6 +342,20 @@
       "format": "PNG RGBA",
       "bytes": 1273915,
       "sha256": "087D14C4BBEE306B4AA7105B8C2A16872B6089B80F2D6507DF5ECBD033DD7103",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "bongo",
+      "file": "animals/bongo.png",
+      "label": "bongo",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1094939,
+      "sha256": "60846B8502F11E0B66E170B95D375B6F26DF1EA4D09B5F9C5980CE896AC36466",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -430,6 +472,20 @@
       "transparent_background": true
     },
     {
+      "id": "cassowary",
+      "file": "animals/cassowary.png",
+      "label": "cassowary",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 937851,
+      "sha256": "1735460B7AE1D5EBEED0925A9AF1E9BB324EFB1D40F4B18DF8F2834A072D92C2",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "cheetah",
       "file": "animals/cheetah.png",
       "label": "Cheetah",
@@ -482,6 +538,20 @@
       "format": "PNG RGBA",
       "bytes": 963223,
       "sha256": "97D81464688ADAA3CAAA0DA744CF7C0E424FF27FD29F159A4F8EA6CBA12A95F2",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "coconut-crab",
+      "file": "animals/coconut-crab.png",
+      "label": "coconut crab",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1522422,
+      "sha256": "082E6FB6529B73832B8224FDE7541EE39CDE34C5FA31BE30742992F3FC1D8805",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -584,6 +654,20 @@
       "transparent_background": true
     },
     {
+      "id": "dhole",
+      "file": "animals/dhole.png",
+      "label": "dhole",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1241204,
+      "sha256": "8403990A6E45E9DFADA24962E35F523C5305823CF47BFF9E509606DCC52DB02C",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "dog",
       "file": "animals/dog.png",
       "label": "dog",
@@ -608,6 +692,20 @@
       "format": "PNG RGBA",
       "bytes": 205186,
       "sha256": "DA27A74281373A62344437434FF9462975EFF6E20FFB71F5326D3D977EC443FE",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "douc-langur",
+      "file": "animals/douc-langur.png",
+      "label": "Red-shanked douc langur",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1407370,
+      "sha256": "625AE9BE7BDD279FF3542FEB918384B5BE1D9EE593992D4813212AF46010B0D3",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -748,6 +846,20 @@
       "format": "PNG RGBA",
       "bytes": 177718,
       "sha256": "4A3A39AE1C515AB57C4359870B39D81DB9F3C6BB6D49794887043DE837273B40",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "goblin-shark",
+      "file": "animals/goblin-shark.png",
+      "label": "goblin shark",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 574003,
+      "sha256": "DEF526B830F77F223D03F38EF61793E13A691216EFBCE1187FDFAF7794DC1D88",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -920,6 +1032,20 @@
       "transparent_background": true
     },
     {
+      "id": "hoopoe",
+      "file": "animals/hoopoe.png",
+      "label": "hoopoe",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1000416,
+      "sha256": "A6F768ACD1687196927B95CDC3BE4876F2810C330C068663F7A43A42F5687B41",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "impala",
       "file": "animals/impala.png",
       "label": "Impala",
@@ -1032,6 +1158,20 @@
       "transparent_background": true
     },
     {
+      "id": "kiwi",
+      "file": "animals/kiwi.png",
+      "label": "kiwi",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1445972,
+      "sha256": "9E9F811A979D1801F621F0F5162195721A12850CDC37141B5B59CAA822CE17EF",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "koala",
       "file": "animals/koala.png",
       "label": "Koala",
@@ -1084,6 +1224,20 @@
       "format": "PNG RGBA",
       "bytes": 908563,
       "sha256": "DDDC62F1DA0249BA05883E89EA83E81142CFD048CDDBB6AD19F54C70C08BFD99",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "leafy-seadragon",
+      "file": "animals/leafy-seadragon.png",
+      "label": "leafy seadragon",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1212890,
+      "sha256": "D49F020C8C48C0B68E894820D4B7ED7D6BE1CC023B3F73729318289A54FE8206",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1196,6 +1350,20 @@
       "format": "PNG RGBA",
       "bytes": 772096,
       "sha256": "9A062A98AE83751289F3166370D78751DDE87BE0B5CAB4AE1B8562BF5612CAC0",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "mantis-shrimp",
+      "file": "animals/mantis-shrimp.png",
+      "label": "Peacock mantis shrimp",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1120602,
+      "sha256": "8779A9791464070E541A1368232609856CF4D2A02974F9F65D7E870A4501C23D",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1452,6 +1620,20 @@
       "transparent_background": true
     },
     {
+      "id": "pallas-cat",
+      "file": "animals/pallas-cat.png",
+      "label": "pallas cat",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1827827,
+      "sha256": "6BD9251536B0130C9627B9567AEB90F5CBCA88197E708F12867C86FCD2E1DCD5",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "panda",
       "file": "animals/panda.png",
       "label": "Panda",
@@ -1532,6 +1714,20 @@
       "format": "PNG RGBA",
       "bytes": 1145642,
       "sha256": "27FB1ECAF7596DFA4A533DC5D5DF95D0B2C8323A40AE57A671D2A64EF1A4FC83",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "platypus",
+      "file": "animals/platypus.png",
+      "label": "platypus",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1323218,
+      "sha256": "775CE044408A6E7D28C850CA1D83F3C8FD50B70B6D479040FE4B0E48E7A92245",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1672,6 +1868,20 @@
       "format": "PNG RGBA",
       "bytes": 801904,
       "sha256": "976735B6498DEAFC8BB62DF2C5CE63D4AC2F8FCC6693B46F7413BA9B1CBB6767",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "roseate-spoonbill",
+      "file": "animals/roseate-spoonbill.png",
+      "label": "roseate spoonbill",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 713500,
+      "sha256": "99781DE011F683F743D79C9EA0DD3758859D5E489D5C60984E4872CCF37A1A43",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1998,6 +2208,34 @@
       "transparent_background": true
     },
     {
+      "id": "sugar-glider",
+      "file": "animals/sugar-glider.png",
+      "label": "sugar glider",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1439642,
+      "sha256": "D89930BEE0C7F9F87F86259D449AF4B96162EEA98E11E29B7600BD48C7FD3C45",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "sunda-colugo",
+      "file": "animals/sunda-colugo.png",
+      "label": "sunda colugo",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1468715,
+      "sha256": "CFEE001F1B43BAE0F05DAC5D59E94F3972B78A0FD414204402A7E736EDD8E108",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "swordfish",
       "file": "animals/swordfish.png",
       "label": "Swordfish",
@@ -2008,6 +2246,48 @@
       "format": "PNG RGBA",
       "bytes": 680093,
       "sha256": "257EA289E465BCB91864AF455CD90876D6E57F86AF8485848F45DB67C66564F8",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "takin",
+      "file": "animals/takin.png",
+      "label": "takin",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1852094,
+      "sha256": "2D3F42587EE2E58D075E08BA22E75BB8A69D06C7ABC6EFC01D7C3F58BFA9EF23",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "tasmanian-devil",
+      "file": "animals/tasmanian-devil.png",
+      "label": "tasmanian devil",
+      "group": "Additional animals",
+      "batch": "additional-animals-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1535018,
+      "sha256": "626D70EDDD001355C39F4365BDEDA59DA189EFB6BFB8DB132330239DFECBFF04",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "tenrec",
+      "file": "animals/tenrec.png",
+      "label": "Lowland streaked tenrec",
+      "group": "Additional animals",
+      "batch": "additional-animals-second-ten",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1491908,
+      "sha256": "FD0D3AAB6F8C22CE1780E751BBC8C6DDBC1633A871342C977421E1BFF1CD8570",
       "animals_per_image": 1,
       "transparent_background": true
     },
