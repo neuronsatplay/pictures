@@ -1,8 +1,8 @@
 {
   "collection": "Neurons at Play animal library",
-  "updated": "2026-10-10",
+  "updated": "2026-10-15",
   "repository_path": "animals",
-  "asset_count": 175,
+  "asset_count": 225,
   "requirements": {
     "animals_per_image": 1,
     "transparent_background": true,
@@ -62,6 +62,20 @@
       "format": "PNG RGBA",
       "bytes": 1307590,
       "sha256": "93180260DA5A4033D4B4F2458DB81FA31C31A494DD0F59F99D92BFEA06EC7079",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "american-bullfrog",
+      "file": "animals/american-bullfrog.png",
+      "label": "american bullfrog",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1665984,
+      "sha256": "BA47EE4A46F5426B8AB0D16391C671A8CC7F5DD23715ACCC33A7BFD08D4B25A7",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -136,6 +150,20 @@
       "transparent_background": true
     },
     {
+      "id": "atlantic-canary",
+      "file": "animals/atlantic-canary.png",
+      "label": "atlantic canary",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 927971,
+      "sha256": "A4D76759539A47AE1FA6E753056FAD577269A6A5AB7377EC8DCFD6D6DF391418",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "axolotl",
       "file": "animals/axolotl.png",
       "label": "Axolotl",
@@ -164,6 +192,20 @@
       "transparent_background": true
     },
     {
+      "id": "ball-python",
+      "file": "animals/ball-python.png",
+      "label": "ball python",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1551497,
+      "sha256": "2B0EDFEE078F66EF38733E3F2471CFF3DB9B4C8E068EC137B4180A953AFE7435",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "barbary-macaque",
       "file": "animals/barbary-macaque.png",
       "label": "Barbary macaque",
@@ -188,6 +230,20 @@
       "format": "PNG RGBA",
       "bytes": 1457119,
       "sha256": "80B9F718668E5FB082A3FF1DA8DE69C99EB3A2EBD7FEB6D5EDC32B97768DE246",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "bearded-dragon",
+      "file": "animals/bearded-dragon.png",
+      "label": "bearded dragon",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1225575,
+      "sha256": "732376627F5E13A02FC0E71497B0962BE0DDFB5C7A5EA475DF8D5AA5630F4A8B",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -304,6 +360,20 @@
       "transparent_background": true
     },
     {
+      "id": "blue-jay",
+      "file": "animals/blue-jay.png",
+      "label": "blue jay",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1005466,
+      "sha256": "24CAFD7C21809DC058B76CD330A7E2529859F80279CA04DFCB73747A28D979A1",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "blue-morpho-butterfly",
       "file": "animals/blue-morpho-butterfly.png",
       "label": "Blue morpho butterfly",
@@ -416,6 +486,34 @@
       "transparent_background": true
     },
     {
+      "id": "brown-bear",
+      "file": "animals/brown-bear.png",
+      "label": "brown bear",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1538791,
+      "sha256": "F738467DC811CE5D4A0E37F019A4F5BEA9D67C77B99231DC8DE963870B2CA6F8",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "bumblebee",
+      "file": "animals/bumblebee.png",
+      "label": "bumblebee",
+      "group": "Insects",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1354678,
+      "sha256": "55C21A2F075181C4958E8B4AF1547294769E7686540E699C105A4CE1A6162F64",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "butterflyfish",
       "file": "animals/butterflyfish.png",
       "label": "Butterflyfish",
@@ -426,6 +524,20 @@
       "format": "PNG RGBA",
       "bytes": 1280293,
       "sha256": "0BE0262CDF81C06C4121933B2279BF24BA64364893F8F65369A390FAF3615664",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "caecilian",
+      "file": "animals/caecilian.png",
+      "label": "caecilian",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1028805,
+      "sha256": "8B947991EE1601B10AB13E1F31CBED94BF210A20D40F796B2AC285B9C0033590",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -486,6 +598,20 @@
       "transparent_background": true
     },
     {
+      "id": "chameleon",
+      "file": "animals/chameleon.png",
+      "label": "chameleon",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1772621,
+      "sha256": "FDB562FB8C62C4ACCD584F3ECE8204589BAF84342FCB95EB181CE7A006B0A41D",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "cheetah",
       "file": "animals/cheetah.png",
       "label": "Cheetah",
@@ -510,6 +636,20 @@
       "format": "PNG RGBA",
       "bytes": 1243763,
       "sha256": "369AD0560ECB1C80FB10761B4212B217EA6BC7E1ED11AB06587BA1BE9E2292B4",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "chinchilla",
+      "file": "animals/chinchilla.png",
+      "label": "chinchilla",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 2054684,
+      "sha256": "2C8C268374B2B088B376FF08C2FF7C95DE962CBF6FD3A100EC7762619431A55E",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -598,6 +738,20 @@
       "transparent_background": true
     },
     {
+      "id": "cougar",
+      "file": "animals/cougar.png",
+      "label": "cougar",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1173670,
+      "sha256": "A2749F2A0CE1C6613719F8F4F936BFBA966E0EEFCC3D6D0BE265A776F52C47C2",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "cow",
       "file": "animals/cow.png",
       "label": "cow",
@@ -626,6 +780,20 @@
       "transparent_background": true
     },
     {
+      "id": "crested-porcupine",
+      "file": "animals/crested-porcupine.png",
+      "label": "crested porcupine",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 2262795,
+      "sha256": "9D418DD63092E928C7DC3B4E7B53AD88B21F06F770695B0CFF9A8A0AA942F127",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "crocodile",
       "file": "animals/crocodile.png",
       "label": "Crocodile",
@@ -636,6 +804,20 @@
       "format": "PNG RGBA",
       "bytes": 316085,
       "sha256": "04906FEA8AA65C2419BE80C2B9EA16E939C2F23B2C824B51A0459058C844BE3F",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "cuttlefish",
+      "file": "animals/cuttlefish.png",
+      "label": "cuttlefish",
+      "group": "Ocean",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1381286,
+      "sha256": "128EFE0281D2A9CC7EA964CD7C02B045453552E548071D59CA16DF546034D2E4",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -696,6 +878,20 @@
       "transparent_background": true
     },
     {
+      "id": "domestic-cat",
+      "file": "animals/domestic-cat.png",
+      "label": "domestic cat",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1341498,
+      "sha256": "6947B443393106ECF86E676FF2DED04569DE4E8AAEA59F073809D57C11BE6F27",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "douc-langur",
       "file": "animals/douc-langur.png",
       "label": "Red-shanked douc langur",
@@ -706,6 +902,34 @@
       "format": "PNG RGBA",
       "bytes": 1407370,
       "sha256": "625AE9BE7BDD279FF3542FEB918384B5BE1D9EE593992D4813212AF46010B0D3",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "dragonfly",
+      "file": "animals/dragonfly.png",
+      "label": "dragonfly",
+      "group": "Insects",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1124079,
+      "sha256": "5BB751287D3E1EB38B85FF6A59434ECBB055719FA58CB5C2B21C467ECB4E7AB8",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "dromedary-camel",
+      "file": "animals/dromedary-camel.png",
+      "label": "dromedary camel",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1234380,
+      "sha256": "7FC15278B1B6D1C3D19B5F31F65B4A2B7D7EFFDE1F0C91B13146A48323DBE535",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -766,6 +990,34 @@
       "transparent_background": true
     },
     {
+      "id": "european-badger",
+      "file": "animals/european-badger.png",
+      "label": "european badger",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1651606,
+      "sha256": "ECA2115AE7066DE9A2F086E40F00E73F9F6F8608DE088D18623B22330ABDCF5F",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "european-robin",
+      "file": "animals/european-robin.png",
+      "label": "european robin",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1245316,
+      "sha256": "3D14225CBBBE970C5C6C5256DD046BA61B081A05B9854533DE97265013F033AD",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "fennec-fox",
       "file": "animals/fennec-fox.png",
       "label": "Fennec fox",
@@ -776,6 +1028,34 @@
       "format": "PNG RGBA",
       "bytes": 1447757,
       "sha256": "F1E186C04DEE13D25AED4C382B9F10BB6AD544243FC01B07598A670B00638AA7",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "ferret",
+      "file": "animals/ferret.png",
+      "label": "ferret",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1276231,
+      "sha256": "C32CE39B97F9C1AFCADD19FF56E229F64E151003B677279EEC85074BE6979D19",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "fire-salamander",
+      "file": "animals/fire-salamander.png",
+      "label": "fire salamander",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1026605,
+      "sha256": "5A690285A7A674970CBBE5135F7CB35EDA1BEE9DD515991F6308CFE91AFD403C",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -836,6 +1116,20 @@
       "transparent_background": true
     },
     {
+      "id": "gila-monster",
+      "file": "animals/gila-monster.png",
+      "label": "gila monster",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1263505,
+      "sha256": "E797A87F849D48A200C1873DD4FBBEDA52D3A8872A80DE0F4EC4FC9BAA102A7C",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "giraffe",
       "file": "animals/giraffe.png",
       "label": "Giraffe",
@@ -846,6 +1140,20 @@
       "format": "PNG RGBA",
       "bytes": 177718,
       "sha256": "4A3A39AE1C515AB57C4359870B39D81DB9F3C6BB6D49794887043DE837273B40",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "goat",
+      "file": "animals/goat.png",
+      "label": "goat",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1126884,
+      "sha256": "49CB4732FE5DD2B2FE2E056B27972AF85127608A09868AC76DBDDCD4F0E743EC",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -874,6 +1182,20 @@
       "format": "PNG RGBA",
       "bytes": 1532951,
       "sha256": "A3BB6E66865D1481E1231A728D66ABDD7EADEE23768A642E43F077E3667A8E76",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "great-hornbill",
+      "file": "animals/great-hornbill.png",
+      "label": "great hornbill",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 928187,
+      "sha256": "2DB07CEE9AEE382CAF9605517937700ABBB11A1EE5FD9CDA08839F9C28768DFB",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -934,6 +1256,20 @@
       "transparent_background": true
     },
     {
+      "id": "guinea-pig",
+      "file": "animals/guinea-pig.png",
+      "label": "guinea pig",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1631660,
+      "sha256": "103E9376570EDB9A88526CAAB6A6B8F47BDFDE65F16A4674885D4B6F4BBF45CB",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "hammerhead-shark",
       "file": "animals/hammerhead-shark.png",
       "label": "Hammerhead shark",
@@ -944,6 +1280,20 @@
       "format": "PNG RGBA",
       "bytes": 896330,
       "sha256": "D135442D81CDCD016ABEDD4F61A8FF61AF594F9F9CF3C1A62A95B5578BB104E2",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "hamster",
+      "file": "animals/hamster.png",
+      "label": "hamster",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1302669,
+      "sha256": "798B8F33F2601ADBCB9358BDB043DE489157388DD2ED849058A8B1059EB9F8A9",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1046,6 +1396,34 @@
       "transparent_background": true
     },
     {
+      "id": "horse",
+      "file": "animals/horse.png",
+      "label": "horse",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 899313,
+      "sha256": "0C2FF0CB11669AF141D448A0B46E6A9D90F769B423118AF1D312FF23F71BE3CB",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "horseshoe-crab",
+      "file": "animals/horseshoe-crab.png",
+      "label": "horseshoe crab",
+      "group": "Ocean",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1031475,
+      "sha256": "70BB183C7B923BDA6B002CA069405F532036BE7C48392E99A141429C16911A94",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "impala",
       "file": "animals/impala.png",
       "label": "Impala",
@@ -1144,6 +1522,34 @@
       "transparent_background": true
     },
     {
+      "id": "king-cobra",
+      "file": "animals/king-cobra.png",
+      "label": "king cobra",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1292105,
+      "sha256": "9FBD2A3FC074B5CCE18F7534BF6662FF287704D2E1035A0D7F7F22CFC356202D",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "kingfisher",
+      "file": "animals/kingfisher.png",
+      "label": "kingfisher",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 989954,
+      "sha256": "13AEB179C467F8E268421F7584751B13CA7162B47DAFC87D3496F154AF13C2D2",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "kinkajou",
       "file": "animals/kinkajou.png",
       "label": "Kinkajou",
@@ -1186,6 +1592,20 @@
       "transparent_background": true
     },
     {
+      "id": "komodo-dragon",
+      "file": "animals/komodo-dragon.png",
+      "label": "komodo dragon",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1247947,
+      "sha256": "9FCFC95A87E8AA8D211C608F79607B1937E8EBBDD1084248EF99612EEA71C3BD",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "kori-bustard",
       "file": "animals/kori-bustard.png",
       "label": "Kori bustard",
@@ -1196,6 +1616,20 @@
       "format": "PNG RGBA",
       "bytes": 945873,
       "sha256": "77E96E3880ED8097A1486D9FC4D84715E563650AF78663BFD10DD606E2517DB1",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "ladybird",
+      "file": "animals/ladybird.png",
+      "label": "ladybird",
+      "group": "Insects",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 909780,
+      "sha256": "F5BFA2BCACB25B2CB62BC4F86398C66BDE3EBD95F267CABDE073756ED49D2F35",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1256,6 +1690,20 @@
       "transparent_background": true
     },
     {
+      "id": "leopard-gecko",
+      "file": "animals/leopard-gecko.png",
+      "label": "leopard gecko",
+      "group": "Reptiles and amphibians",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 984202,
+      "sha256": "6068E61BDB5B893E38A67F02AE152AF9AF81B068CAB90429B0691E5F5CCC168C",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "lion",
       "file": "animals/lion.png",
       "label": "Lion",
@@ -1270,6 +1718,20 @@
       "transparent_background": true
     },
     {
+      "id": "lionfish",
+      "file": "animals/lionfish.png",
+      "label": "lionfish",
+      "group": "Ocean",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1684411,
+      "sha256": "EDCEDA337C2BFF7A901604A3BDEB129347916FDB98D6AE88D59EC9C7BCC28C2C",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "lobster",
       "file": "animals/lobster.png",
       "label": "Lobster",
@@ -1280,6 +1742,20 @@
       "format": "PNG RGBA",
       "bytes": 1268514,
       "sha256": "85B54BC59E7EDC203EF63A569B1FE3F752EF576FB8A6169451C90DBDB0195B0B",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "lyrebird",
+      "file": "animals/lyrebird.png",
+      "label": "lyrebird",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1474423,
+      "sha256": "33393AA9C0A8DFD2137AC1A7C77EFA0ECE68167064C79E53F8CB96E13E887ABF",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1308,6 +1784,20 @@
       "format": "PNG RGBA",
       "bytes": 1188939,
       "sha256": "B02931C1A8F9CFCC6C9611DE159655C162C545A55BD6BF5FA70BB16EAADD7765",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "mandarinfish",
+      "file": "animals/mandarinfish.png",
+      "label": "mandarinfish",
+      "group": "Ocean",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1305255,
+      "sha256": "C158B5FFB28360229540785D0BF6E510FDA3DC4262FC1308B64B1A80BA0266F4",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1438,6 +1928,20 @@
       "transparent_background": true
     },
     {
+      "id": "moose",
+      "file": "animals/moose.png",
+      "label": "moose",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1182165,
+      "sha256": "595EF459A397D27D2C70850385004F10D0DD53D9742F72432026F323C5D3AAC0",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "moray-eel",
       "file": "animals/moray-eel.png",
       "label": "Moray eel",
@@ -1462,6 +1966,20 @@
       "format": "PNG RGBA",
       "bytes": 1941159,
       "sha256": "1CA1389FB2BEA1A1366A7CB146E04644011D14A6A0AD612B2D612277921B9D36",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "mute-swan",
+      "file": "animals/mute-swan.png",
+      "label": "mute swan",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 920632,
+      "sha256": "9EDC951619FB9BE640A5942EBDDC58C2BD89E894B705E43AAF1A976A993F8251",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1592,6 +2110,20 @@
       "transparent_background": true
     },
     {
+      "id": "orchid-mantis",
+      "file": "animals/orchid-mantis.png",
+      "label": "orchid mantis",
+      "group": "Insects",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1087517,
+      "sha256": "2670937B98EB6AFA483636735FECCAD8382AFAB01076D377642DA53106EC0CAB",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "ostrich",
       "file": "animals/ostrich.png",
       "label": "Ostrich",
@@ -1690,6 +2222,20 @@
       "transparent_background": true
     },
     {
+      "id": "pelican",
+      "file": "animals/pelican.png",
+      "label": "pelican",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 906884,
+      "sha256": "7B08C15E49CBD4E7D72117F885632A453ABAF608ACF1C7153927F4CA0FDB9C53",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "penguin",
       "file": "animals/penguin.png",
       "label": "Penguin",
@@ -1700,6 +2246,20 @@
       "format": "PNG RGBA",
       "bytes": 263596,
       "sha256": "24329653C2EE2E1CBA70D0C74E512241083ADC9448808A3A667EBB7B93AA5876",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "pig",
+      "file": "animals/pig.png",
+      "label": "pig",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1212346,
+      "sha256": "F9C6DA5898ED97E67369643E02F346368F1B5D5D6D4CE15D7F16CFDB015F676C",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1760,6 +2320,20 @@
       "transparent_background": true
     },
     {
+      "id": "praying-mantis",
+      "file": "animals/praying-mantis.png",
+      "label": "praying mantis",
+      "group": "Insects",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 744283,
+      "sha256": "71E66D4E21305DE17081504A264E65D5FDAD56541C08B63273366EB80ACB16B0",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "proboscis-monkey",
       "file": "animals/proboscis-monkey.png",
       "label": "Proboscis monkey",
@@ -1770,6 +2344,20 @@
       "format": "PNG RGBA",
       "bytes": 1635337,
       "sha256": "458DC1B4597193F9E47DACF0C8CB555E20696C75B2A47441FE8CAD825A34EA28",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "pronghorn",
+      "file": "animals/pronghorn.png",
+      "label": "pronghorn",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 930988,
+      "sha256": "570EE81FF225320C85AB9167F1C1AC99D4FF2790B25B728AD022C9155E8A31B8",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -1802,6 +2390,20 @@
       "transparent_background": true
     },
     {
+      "id": "quetzal",
+      "file": "animals/quetzal.png",
+      "label": "quetzal",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 799928,
+      "sha256": "C0C1B8F19E5D96C6235EC0EFC1D22C60927A48B35E65710516821A631302AE6C",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "quokka",
       "file": "animals/quokka.png",
       "label": "Quokka",
@@ -1816,6 +2418,20 @@
       "transparent_background": true
     },
     {
+      "id": "raccoon",
+      "file": "animals/raccoon.png",
+      "label": "raccoon",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1505868,
+      "sha256": "78E7833DF029E05D307DF3B8FD047E18D93A658A892122EA3BFE449DEC6A9ADE",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "red-eyed-tree-frog",
       "file": "animals/red-eyed-tree-frog.png",
       "label": "Red-eyed tree frog",
@@ -1826,6 +2442,20 @@
       "format": "PNG RGBA",
       "bytes": 1325301,
       "sha256": "FD92750F88DE745D9C1B71C43C370CFCFC59799F422E47E2EA31E2C39A7C527C",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "red-fox",
+      "file": "animals/red-fox.png",
+      "label": "red fox",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1228529,
+      "sha256": "C2A9FF3B8F35CE3781F5FA3E897361FAA72670F378D5205DA2C59B126030CF05",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -2012,6 +2642,20 @@
       "transparent_background": true
     },
     {
+      "id": "sheep",
+      "file": "animals/sheep.png",
+      "label": "sheep",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1174422,
+      "sha256": "781F28D0DBB35D795C9E6E89BA6EA7066D346283F90323983EBFF99DBC4FC31A",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "shoebill",
       "file": "animals/shoebill.png",
       "label": "Shoebill",
@@ -2064,6 +2708,20 @@
       "format": "PNG RGBA",
       "bytes": 858425,
       "sha256": "269D17C7196873AC62D62C14E4B2BE465A43D7AAFC5B00E0EAD667A96247A1C0",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "snow-leopard",
+      "file": "animals/snow-leopard.png",
+      "label": "snow leopard",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1652429,
+      "sha256": "1695EAC10E5517E23A59879743E60E26F206075B3591E1333C92AE850EB08F8B",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -2176,6 +2834,20 @@
       "format": "PNG RGBA",
       "bytes": 1213377,
       "sha256": "EA916323DF887059803D94A29CE63EF5DD9029782282A8E0409B20BE9924E20D",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "stag-beetle",
+      "file": "animals/stag-beetle.png",
+      "label": "stag beetle",
+      "group": "Insects",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1164301,
+      "sha256": "CCBE953EBC8920C5B22560DDFA33C940CEE582CD1B781BD742D2C6F32568F53F",
       "animals_per_image": 1,
       "transparent_background": true
     },
@@ -2362,6 +3034,20 @@
       "transparent_background": true
     },
     {
+      "id": "vicuna",
+      "file": "animals/vicuna.png",
+      "label": "vicuna",
+      "group": "Mammals",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 798797,
+      "sha256": "8F0A1404B09E84B3D7F74DE13564C375DC563EF3BDD99B7A30A54B40E553EC0E",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
       "id": "walrus",
       "file": "animals/walrus.png",
       "label": "Walrus",
@@ -2442,6 +3128,20 @@
       "format": "PNG RGBA",
       "bytes": 2173161,
       "sha256": "7EDA154059F624845570D82918173DA1D209AEAC66CACC32E04019236D221107",
+      "animals_per_image": 1,
+      "transparent_background": true
+    },
+    {
+      "id": "wood-duck",
+      "file": "animals/wood-duck.png",
+      "label": "wood duck",
+      "group": "Birds",
+      "batch": "additional-animals-fifty-2026-10-14",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG RGBA",
+      "bytes": 1196552,
+      "sha256": "51D6190170D7A9DCC3B72B2EA445A0CD68D9050F6A4CD55AF9D243E466006C2E",
       "animals_per_image": 1,
       "transparent_background": true
     },
